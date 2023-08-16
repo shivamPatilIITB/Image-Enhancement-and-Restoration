@@ -8,7 +8,7 @@ Instructor: Prof. Amit Sethi, Electrical Engineering, IIT Bombay | Python (Augâ€
 
 (a) Trained and tested a support vector regression (SVR) model to denoise the images
 
-(b) Obtained an RMSE of 18.54% on images degraded by contrast, brightness change, blurring & noise
+(b) Obtained an RMSE of 18.54 on images degraded by contrast, brightness change, blurring & noise
 
 **Clarifications:**
 
